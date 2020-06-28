@@ -1,5 +1,4 @@
 # LTWIN_DOAN_SimpleNote_nhom09
-# DOAN_LTWIN_simpleNote
 Đồ án cuối kì môn lập trình window, SimpleNote
 Nhóm sinh viên 09:
 thành viên : 
